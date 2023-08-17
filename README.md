@@ -1,20 +1,11 @@
-# Tur-Seyahat-Acentasi
+<h1> HTML / CSS / JAVASCRIPT Kullanarak Duyarlı Tur Seyahat Acentası Web Sitesi </h1>
 
-Tatil yapmak isteyenler için hazırlanmış içerisinde tatil için herşeyi gösteren bir web sitesi.
+Tatil severler için kurulmuş seyahat web sitesi
 
-<h2> Kullanılan Teknolojiler </h2>
+<h2> Kullaniclan teknolojiler</h2>
 
-HTML5, CSS, Bootstrap Icon, JavaScript
+HTML, CSS yaninda <a href="https://getbootstrap.com/"> BS</a> ,JavaScript 
 
-Bu dosyayı açmak ve incelemek için tarayıcı gerekli.
+<h2> Ekran Goruntusu</h2>
 
-<h2>Geliştirici </h2>
-Durmuş Özgül
-durmusozgul66@gmail.com
-
-<h2>Ekran Görüntüsü</h2>
-![](travel.gif)
-
-# Tur-Seyahat-Acentasi
-# TravelWebSitesi
-# TravelWebSitesi
+![](./travel.gif.gif)# TravelWebSites
