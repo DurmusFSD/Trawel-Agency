@@ -8,5 +8,7 @@ HTML, CSS yaninda <a href="https://getbootstrap.com/"> BS</a> ,JavaScript
 
 <h2> Ekran Goruntusu</h2>
 
-![](./travel.gif) # TravelWebSites
+![](travel.gif) # TravelWebSites
+
 # TravelWebSites
+# TravelWebSitesi
